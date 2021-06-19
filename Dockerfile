@@ -1,5 +1,5 @@
 FROM tomcat:8.0
 
-MAINTAINER deepak2717@gmail.com
+MAINTAINER shanthiganta7356.z@gmail.com
 
 #COPY pipelineProjectDocker/target/JenkinsWar.war /usr/local/tomcat/webapps/
